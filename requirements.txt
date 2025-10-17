@@ -1,0 +1,7 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=5.2.1
+fpdf2>=2.7.8
+Pillow>=10.3.0
+tqdm>=4.66.4
+urllib3>=2.2.1
